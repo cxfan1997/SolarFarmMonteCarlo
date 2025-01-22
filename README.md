@@ -1,4 +1,4 @@
-# Solar Farm Model
+# Monte-Carlo-based Solar Farm Radiative Transfer Model
 
 This repository contains a Monte Carlo based radiative transfer model that calculates radiative fluxes within a photovoltaic solar farm.
 
